@@ -1,0 +1,13 @@
+Yahtzee Rules
+
+Het doel van Yahtzee is om zo veel mogelijk punten te behalen door met 5 dobbelstenen bepaalde combinaties te halen.
+
+
+Gameplay
+
+Elke speler kan tijdens zijn beurt maximaal 3 maal gooien met de dobbelstenen.
+Niet alle dobbelstenen moet bij elke worp gegooid worden. De speler kan dobbelstenen vastleggen door ze simpel aan te duiden.
+Door nogmaals op de dobbelstenen te drukken worden ze niet meer vastgezet en zullen bij de volgende worp weer gegooid worden.
+De dobbelsten die werden vastgelegd zullen niet gegooid worden om je te helpen combinaties sneller te behalen.
+Als je de combinatie die je wilde halen hebt verkregen of je hebt geen worpen meer over kun je klikken op de punten van de combinatie die je wilt bij je totaal wilt tellen.
+Dan zal het de beurt zijn aan de volgende speler en de worpen worden gereset.

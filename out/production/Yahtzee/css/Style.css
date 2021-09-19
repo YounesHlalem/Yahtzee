@@ -1,0 +1,46 @@
+.button {
+    -fx-background-color: darkred;
+    -fx-effect: dropshadow(three-pass-box, black, 10, 0.1, 0, 0);
+    -fx-text-fill: wheat;
+    -fx-font-size: 13pt;
+}
+
+.combo-box, .text-field {
+    -fx-background-color: lightgoldenrodyellow;
+    -fx-effect: dropshadow(three-pass-box, black, 10, 0.1, 0, 0);
+    -fx-text-fill: #1d1d1d;
+}
+
+.root {
+    -fx-background-image: url("../be/kdg/Yahtzee/view/images/bg.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+.radio-button {
+    -fx-text-fill: wheat;
+    -fx-font-size: 12pt;
+}
+
+.label {
+    -fx-font-size: 11pt;
+    -fx-font-family: "Calibri Light";
+    -fx-text-fill: wheat;
+}
+
+.menu-bar {
+    -fx-background-color: derive(#1d1d1d,20%);
+}
+
+.menu-bar .label {
+    -fx-font-size: 14pt;
+    -fx-font-family: "Segoe UI Light";
+    -fx-text-fill: white;
+    -fx-opacity: 0.9;
+}
+
+.context-menu {
+    -fx-background-color: derive(#1d1d1d,50%);
+}
+

@@ -1,0 +1,15 @@
+Ones: Haal zo vaak mogelijk 1.
+Twos: Haal zo vaak mogelijk 2.
+Threes: Haal zo vaak mogelijk 3.
+Fours: Haal zo vaak mogelijk 4.
+Fives: Haal zo vaak mogelijk 5.
+Sixes: Haal zo vaak mogelijk 6.
+Voor de zes vorige combinaties worden de punten geteld aan hoe vaak de waarde voorkomt. 2,1,2,2,4 levert dus bij het aanduiden van Twos 6 punten op.
+
+Three of a kind: Haal 3 stenen met dezelfde waarde.
+Four of a kind: Haal 4 stenen met dezelfde waarde.
+Full house: Haal 3 stenen met dezelfde waarde en 2 stenen met eenzelfde waarde verschillend van de 3. Dit levert 25 punten op.
+Small straight: Haal 4 opeenvolgende waardes, 1,2,3,4 of 2,3,4,5 of 3,4,5,6. Dit levert 30 punten op.
+Large straight: Haal 5 opeenvolgende waardes, 1,2,3,4,5 of 2,3,4,5,6. Dit levert 40 punten op.
+Chance: Dit telt alle waardes op van de verkregen stenen.
+YAHTZEE: Dit behaal je als alle 5 stenen eenzelfde waarde hebben. Dit levert 50 punten op.
